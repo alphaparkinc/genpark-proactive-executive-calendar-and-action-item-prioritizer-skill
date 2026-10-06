@@ -1,0 +1,1 @@
+[project]\nname = "genpark-proactive-executive-calendar-and-action-item-prioritizer-skill"\nversion = "1.0.0"\ndescription = "Triages meeting requests, detects conflicting commitments, and assigns priority tiers for executive calendars"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
