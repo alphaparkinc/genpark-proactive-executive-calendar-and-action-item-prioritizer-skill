@@ -1,0 +1,1 @@
+# genpark-proactive-executive-calendar-and-action-item-prioritizer-skill\n\nTriages meeting requests, detects conflicting commitments, and assigns priority tiers for executive calendars.\n\n100% Python Standard Library implementation with zero external dependencies.
