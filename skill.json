@@ -1,0 +1,8 @@
+{
+  "name": "genpark-proactive-executive-calendar-and-action-item-prioritizer-skill",
+  "version": "1.0.0",
+  "description": "Triages meeting requests, detects conflicting commitments, and assigns priority tiers for executive calendars",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
